@@ -291,11 +291,11 @@ i18n = ["Babel (>=0.8)"]
 
 [[package]]
 category = "main"
-description = "('A data-structure parameterization system written for embedding context in JSON objects',)"
+description = "A data-structure parameterization system written for embedding context in JSON objects"
 name = "json-e"
 optional = false
 python-versions = "*"
-version = "3.0.2"
+version = "4.0.1"
 
 [package.extras]
 release = ["towncrier"]
@@ -794,7 +794,7 @@ version = "0.13.0"
 app = ["flask"]
 
 [metadata]
-content-hash = "1d0a2061a9865620cb2a247f9817741f1c54009cc313401d1f5848b3837f0949"
+content-hash = "b7a5540f40136c1a2bcb048c087821399b64f7c5b2d650b04158c8c6c8c12d83"
 python-versions = "^3.6"
 
 [metadata.files]
@@ -919,7 +919,7 @@ jinja2 = [
     {file = "Jinja2-2.11.1.tar.gz", hash = "sha256:93187ffbc7808079673ef52771baa950426fd664d3aad1d0fa3e95644360e250"},
 ]
 json-e = [
-    {file = "json-e-3.0.2.tar.gz", hash = "sha256:35dc96ce04f0caece560dc18266af7f0ffb780955273ffa20814be65447cad49"},
+    {file = "json-e-4.0.1.tar.gz", hash = "sha256:7d84242c94c4a475b08e185a265bed810346daf8399a5b5d05b7b19eba774356"},
 ]
 loguru = [
     {file = "loguru-0.4.1-py3-none-any.whl", hash = "sha256:074b3caa6748452c1e4f2b302093c94b65d5a4c5a4d7743636b4121e06437b0e"},
